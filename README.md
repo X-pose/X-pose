@@ -64,6 +64,11 @@
     <img src = "https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title = "Blender" alt =       "Blender" width="40" height="40"/>&nbsp;
     <img src = "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title = "Photoshop"        alt = "Photoshop" width="40" height="40"/>&nbsp;
     <img src = "https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title = "Google" alt =        "Google" width="40" height="40"/>&nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title = "MongoDB" alt = "MongoDB" width="40" height="40"/>&nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title = "Express" alt = "Express" width="40" height="40"/>&nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title = "ReactJS" alt = "ReactJS" width="40" height="40"/>&nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title = "NodeJS" alt = "NodeJS" width="40" height="40"/>&nbsp;
+    
 </div>
  
  
