@@ -36,7 +36,7 @@
 
 ### :man_technologist: About Me :
 
-:telescope:  I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
+:telescope:  I am an undergraduate Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
 
 :telescope: I love to develop creative solutions and enhance tech mechanisms for enterprises.
 
