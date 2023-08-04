@@ -42,7 +42,7 @@
 
 :zap: I'm also working as a freelance 3D modeler for video game companies.
 
-:seedling: Exploring new knowledge and technologies here on Github.
+:seedling: Exploring new knowledge and technologies here on GitHub.
 
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/thathsara)
 
