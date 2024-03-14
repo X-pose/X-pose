@@ -48,30 +48,45 @@
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=X-pose&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages :
 
 <div>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title = "C language" alt = "C           language" width="40" height="40"/>&nbsp;
-   <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title = "C++ language" alt = "C++ language" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java"   width="40" height="40"/>&nbsp;
-   <img src = "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title = "PHP" alt = "PHP"          width="40" height="40"/>&nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/express/java-original.svg" title = "Java" alt = "Java" width="40" height="40"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/express/c-original.svg" title = "C" alt = "C" width="40" height="40"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/express/C++-original.svg" title = "C++" alt = "C++" width="40" height="40"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/express/kotlin-original.svg" title = "Kotlin" alt = "Kotlin" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript"      alt="JavaScript" width="40" height="40"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/express/php-original.svg" title = "PHP" alt = "PHP" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML"          width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript"      alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS"       width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS"       width="40" height="40"/>&nbsp;
+    
     <img src = "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title = "Visual Studio" alt = "Visual Studio" width="40" height="40"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title = "TomCat server"       alt = "TomCat" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"            alt="MySQL" width="40" height="40"/>&nbsp;
+   
     <img src = "https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title = "Blender" alt =       "Blender" width="40" height="40"/>&nbsp;
     <img src = "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title = "Photoshop"        alt = "Photoshop" width="40" height="40"/>&nbsp;
     <img src = "https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title = "Google" alt =        "Google" width="40" height="40"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title = "MongoDB" alt = "MongoDB" width="40" height="40"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title = "Express" alt = "Express" width="40" height="40"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title = "ReactJS" alt = "ReactJS" width="40" height="40"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title = "NodeJS" alt = "NodeJS" width="40" height="40"/>&nbsp;
+   
+    
     
 </div>
+
+### :hammer_and_wrench: Frameworks, Tech Stacks, & Libraries :
  
+ <div>
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title = "Express" alt = "Express" width="40" height="40"/>&nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title = "ReactJS" alt = "ReactJS" width="40" height="40"/>&nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title = "NodeJS" alt = "NodeJS" width="40" height="40"/>&nbsp;
+ </div>
+
  
+### :hammer_and_wrench: Databases :
+
+<div>
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title = "TomCat server"       alt = "TomCat" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"            alt="MySQL" width="40" height="40"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title = "MongoDB" alt = "MongoDB" width="40" height="40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title = "Firebase" alt = "Firebase" width="40" height="40"/>&nbsp;
+</div>
  ---
 
 ### :fire: My Stats :
