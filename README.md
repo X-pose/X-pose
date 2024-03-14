@@ -47,7 +47,7 @@
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/thathsara)
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=X-pose&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=X-pose&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
