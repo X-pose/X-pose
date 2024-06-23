@@ -44,7 +44,7 @@
 
 :seedling: Exploring new knowledge and technologies here on GitHub.
 
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/thathsara)
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/thathsara-thalangama)
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=X-pose&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
