@@ -29,7 +29,8 @@
 ###
 
 <div id = "header" align = "center">
-  <img src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
+  
+  [![My Portfolio](https://i.postimg.cc/L6fT89ft/Landing-page.png)](https://thathsara-thalangama.vercel.app/)
 </div>
 
 ---
