@@ -43,10 +43,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=X-pose&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-<span>
+<p>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="25" alt="">
   <span> Skills</span>
-</span>
+</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="">
 ### :hammer_and_wrench: Languages :
 
