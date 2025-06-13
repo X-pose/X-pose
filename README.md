@@ -6,13 +6,6 @@
   <a href = "http://www.linkedin.com/in/thathsara-thalangama">
     <img src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/">
   </a>
-  <a href = "https://www.artstation.com/thathsara_thalangama">
-    <img src = "https://img.shields.io/badge/Artstation-blue?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation Badge"/">
-  </a>
-  
-  <a href = "https://www.cgtrader.com/falcocg">
-    <img src = "https://img.shields.io/badge/CGTrader-Green?style=for-the-badge&logo=cgtrader&logoColor=white"  alt="CG Trader Badge"/">
-  </a>
 </div>
 
 <div align = center>
@@ -33,7 +26,7 @@
   [![My Portfolio](https://i.postimg.cc/L6fT89ft/Landing-page.png)](https://thathsara-thalangama.vercel.app/)
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="">
 
 ### :man_technologist: About Me :
 
