@@ -1,19 +1,18 @@
 <div id = "header" align = "center">
-  <img src = "https://avatars.githubusercontent.com/u/92014960?s=400&u=acac37a4d598c1d042efbe1af647c74de908eb9b&v=4" width="100" height="100" borderRadius="50%"/>
+  <img src = "https://avatars.githubusercontent.com/u/92014960?s=400&u=acac37a4d598c1d042efbe1af647c74de908eb9b&v=4" width="100" height="100"/>
 </div>
 
 <div id = "badges" align = center>
   <a href = "http://www.linkedin.com/in/thathsara-thalangama">
-    <img src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn     Badge"/">
+    <img src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/">
   </a>
   <a href = "https://www.artstation.com/thathsara_thalangama">
-    <img src = "https://img.shields.io/badge/Artstation-blue?style=for-the-badge&logo=artstation&logoColor=white"                 alt="ArtStation Badge"/">
+    <img src = "https://img.shields.io/badge/Artstation-blue?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation Badge"/">
   </a>
   
   <a href = "https://www.cgtrader.com/falcocg">
-    <img src = "https://img.shields.io/badge/CGTrader-Green?style=for-the-badge&logo=cgtrader&logoColor=white"                 alt="CG Trader Badge"/">
+    <img src = "https://img.shields.io/badge/CGTrader-Green?style=for-the-badge&logo=cgtrader&logoColor=white"  alt="CG Trader Badge"/">
   </a>
-  
 </div>
 
 <div align = center>
