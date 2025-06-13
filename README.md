@@ -27,7 +27,7 @@
 </div>
 
 ###
-<div>
+<div style="width:100%;">
    <img src = "https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="" style="width:100%;"/>
 </div>
 <div id = "header" align = "center">
