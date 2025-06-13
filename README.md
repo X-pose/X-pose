@@ -27,9 +27,11 @@
 </div>
 
 ###
-
+<div>
+   <img src = "https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt=""/>
+</div>
 <div id = "header" align = "center">
-  <img src = "https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt=""/>
+ 
   [![My Portfolio](https://i.postimg.cc/L6fT89ft/Landing-page.png)](https://thathsara-thalangama.vercel.app/)
 </div>
 
