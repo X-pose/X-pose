@@ -17,7 +17,7 @@
 </div>
 
 <div align = center>
-  <img src="https://komarev.com/ghpvc/?username=X-pose&style=flat-square&color=blue" alt="" width=100%/>
+  <img src="https://komarev.com/ghpvc/?username=X-pose&style=flat-square&color=blue" alt="" />
 </div>
 
 <div align = center>
@@ -28,7 +28,7 @@
 
 ###
 <div>
-   <img src = "https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt=""/>
+   <img src = "https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="" width=100%/>
 </div>
 <div id = "header" align = "center">
  
