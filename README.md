@@ -40,8 +40,11 @@
 
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/thathsara-thalangama)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=X-pose&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt=""><p> Skills</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="">
 ### :hammer_and_wrench: Languages :
 
 <div>
@@ -85,7 +88,7 @@
    
 </div>
 
- ---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="">
 
 ### :fire: My Stats :
 
