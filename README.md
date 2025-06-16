@@ -40,13 +40,11 @@
 
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/thathsara-thalangama)
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="">
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="25" alt="Skills icon" style="vertical-align: middle;" /> Skills
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="">
-
-### :hammer_and_wrench: Languages :
+## :hammer_and_wrench: Languages :
 
 <div>
     <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title = "Java" alt = "Java" width="40" height="40"/>&nbsp;
@@ -59,7 +57,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS"       width="40" height="40"/>&nbsp; 
 </div>
 
-### :hammer_and_wrench: Frameworks, Tech Stacks, & Libraries :
+## :hammer_and_wrench: Frameworks, Tech Stacks, & Libraries :
  
  <div>
    <img src = "https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title = "Express" alt = "Express" width="40" height="40"/>&nbsp;
@@ -68,7 +66,7 @@
  </div>
 
  
-### :hammer_and_wrench: Databases :
+## :hammer_and_wrench: Databases :
 
 <div>
    <img src = "https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title = "TomCat server"       alt = "TomCat" width="40" height="40"/>&nbsp;
@@ -77,7 +75,7 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title = "Firebase" alt = "Firebase" width="40" height="40"/>&nbsp;
 </div>
 
-### :hammer_and_wrench: Tools :
+## :hammer_and_wrench: Tools :
 <div>
    <img src = "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title = "Visual Studio" alt = "Visual Studio" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain.svg" title = "Android Studio" alt = "Android Studio" width="40" height="40"/>&nbsp;
