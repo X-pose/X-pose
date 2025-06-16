@@ -103,6 +103,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-pose&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) 
 
 </p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X-pose&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src = "https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="" width="100%"/>
