@@ -41,10 +41,8 @@
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/thathsara-thalangama)
 
 
-<p  style="margin:0 display: flex; align-items: center;">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="25" alt="Skills icon" style="vertical-align: middle;" />
-  <span style="font-size: 20px; line-height: 0px; font-weight: bold; margin-left: 5px;"> Skills</span>
-</p>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="25" alt="Skills icon" style="vertical-align: middle;" /> Skills
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="">
 
