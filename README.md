@@ -107,7 +107,7 @@
  <img src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title = "docker" alt = "docker" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title = "kubernetes" alt = "kubernetes" width="40" height="40"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title = "linux" alt = "linux" width="40" height="40"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/amazonewebservices/amazonewebservices-original-wordmark.svg" title = "aws" alt = "aws" width="40" height="40"/>&nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title = "aws" alt = "aws" width="40" height="40"/>&nbsp;
     <img src = "https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title = "Google Cloud" alt = "GCP" width="40" height="40"/>&nbsp;
     
 </div>
