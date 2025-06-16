@@ -107,7 +107,7 @@
  <img src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title = "docker" alt = "docker" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title = "kubernetes" alt = "kubernetes" width="40" height="40"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title = "linux" alt = "linux" width="40" height="40"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/amazonewebservices/amazonewebservices-original.svg" title = "aws" alt = "aws" width="40" height="40"/>&nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/amazonewebservices/amazonewebservices-original-wordmark.svg" title = "aws" alt = "aws" width="40" height="40"/>&nbsp;
     <img src = "https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title = "Google Cloud" alt = "GCP" width="40" height="40"/>&nbsp;
     
 </div>
@@ -115,7 +115,7 @@
 #### :hammer_and_wrench: Testing :
 
 <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/cypress/cypress-original.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/puppeteer/puppeteer-original.svg" title="Puppeteer" alt="Puppeteer" width="40" height="40"/>&nbsp;
@@ -127,6 +127,7 @@
 
 <div>
    <img src = "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title = "Visual Studio" alt = "Visual Studio" width="40" height="40"/>&nbsp;
+<img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title = "figma" alt = "figma" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain.svg" title = "Android Studio" alt = "Android Studio" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title = "Eclipse" alt =       "Eclipse" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title = "Postman" alt =       "Postman" width="40" height="40"/>&nbsp;
