@@ -126,7 +126,7 @@
 #### :hammer_and_wrench: Other Tools :
 
 <div>
-   <img src = "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title = "Visual Studio" alt = "Visual Studio" width="40" height="40"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "VS Code" alt = "VS Code" width="40" height="40"/>&nbsp;
 <img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title = "figma" alt = "figma" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain.svg" title = "Android Studio" alt = "Android Studio" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title = "Eclipse" alt =       "Eclipse" width="40" height="40"/>&nbsp;
