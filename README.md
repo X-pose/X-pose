@@ -44,10 +44,9 @@
 
 #### :hammer_and_wrench: Languages :
 
-
+[![My Skills](https://skillicons.dev/icons?i=java,js,py,php)](https://skillicons.dev)
 
 <div>
-	[![My Skills](https://skillicons.dev/icons?i=java,js,py,php)](https://skillicons.dev)
 <!--     <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title = "Java" alt = "Java" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript"      alt="JavaScript" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="JavaScript"      alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -56,10 +55,9 @@
 
 #### :hammer_and_wrench: Frontend Development :
 
-
+[![My Skills](https://skillicons.dev/icons?i=react,vue,tailwind,html,css,bootstrap)](https://skillicons.dev)
 
 <div>
-	[![My Skills](https://skillicons.dev/icons?i=react,vue,tailwind,html,css,bootstrap)](https://skillicons.dev)
 <!--     <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title = "ReactJS" alt = "ReactJS" width="40" height="40"/>&nbsp;
         <img src = "https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title = "VueJS" alt = "VueJS" width="40" height="40"/>&nbsp;
         <img src = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title = "tailwindcss" alt = "tailwindcss" width="40" height="40"/>&nbsp;
@@ -71,10 +69,9 @@
 
 #### :hammer_and_wrench: Backend Development :
 
-
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,rabbitmq,nginx)](https://skillicons.dev)
 
  <div>
-	 [![My Skills](https://skillicons.dev/icons?i=express,nodejs,rabbitmq,nginx)](https://skillicons.dev)
 <!--    <img src = "https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title = "Express" alt = "Express" width="40" height="40"/>&nbsp;
     <img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title = "NodeJS" alt = "NodeJS" width="40" height="40"/>&nbsp;
     <img src = "https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title = "rabbitmq" alt = "rabbitmq" width="40" height="40"/>&nbsp;
@@ -83,9 +80,9 @@
  
  #### :hammer_and_wrench: Frameworks :
 
+[![My Skills](https://skillicons.dev/icons?i=nextjs,flask,materialui)](https://skillicons.dev)
 
  <div> 
-	 [![My Skills](https://skillicons.dev/icons?i=nextjs,flask,materialui)](https://skillicons.dev)
 <!--    <img src = "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title = "NextJS" alt = "NextJS" width="40" height="40"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title = "flask" alt = "flask" width="40" height="40"/>&nbsp;
     <img src = "https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title = "materialui" alt = "materialui" width="40" height="40"/>&nbsp; -->
@@ -93,9 +90,9 @@
 
 #### :hammer_and_wrench: AI/ML :
 
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
 
 <div>
-	[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
 <!-- <img src = "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title = "tensorflow" alt = "tensorflow" width="40" height="40"/>&nbsp; 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title = "pytorch" alt = "pytorch" width="40" height="40"/>&nbsp;  -->
 <img src = "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title = "pandas" alt = "pandas" width="40" height="40"/>&nbsp; 
@@ -106,10 +103,9 @@
  
 #### :hammer_and_wrench: Databases :
 
-
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase)](https://skillicons.dev)
 
 <div>
-	[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase)](https://skillicons.dev)
 	<img src = "https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title = "sql server"       alt = "SQLServer" width="40" height="40"/>&nbsp;
 <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"            alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite"            alt="sqlite" width="40" height="40"/>&nbsp;
@@ -119,10 +115,9 @@
 
 #### :hammer_and_wrench: DevOps :
 
-
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,aws,gcp)](https://skillicons.dev)
 
 <div>
-	[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,aws,gcp)](https://skillicons.dev)
 <!--  <img src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title = "docker" alt = "docker" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title = "kubernetes" alt = "kubernetes" width="40" height="40"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title = "linux" alt = "linux" width="40" height="40"/>&nbsp;
@@ -132,10 +127,9 @@
 
 #### :hammer_and_wrench: Testing :
 
-
+[![My Skills](https://skillicons.dev/icons?i=cypress,jest,selenium)](https://skillicons.dev)
 
 <div>
-	[![My Skills](https://skillicons.dev/icons?i=cypress,jest,selenium)](https://skillicons.dev)
 <!--    <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp; -->
@@ -146,10 +140,9 @@
 
 #### :hammer_and_wrench: Other Tools :
 
-
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,androidstudio,eclipse,postman,blender)](https://skillicons.dev)
 
 <div>
-	[![My Skills](https://skillicons.dev/icons?i=vscode,figma,androidstudio,eclipse,postman,blender)](https://skillicons.dev)
 <!--    <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "VS Code" alt = "VS Code" width="40" height="40"/>&nbsp;
 <img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title = "figma" alt = "figma" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain.svg" title = "Android Studio" alt = "Android Studio" width="40" height="40"/>&nbsp;
