@@ -157,9 +157,11 @@
 
 ### :fire: My Stats :
 
-[![X-pose's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-pose&theme=blue-green&show=prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
 
-[![X-pose's GitHub Streak](https://streak-stats.demolab.com?user=X-pose&theme=blue-green)](https://git.io/streak-stats)
+[![X-pose's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-pose&theme=blue-green&show=prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![X-pose's GitHub Streak](https://streak-stats.demolab.com?user=X-pose&theme=blue-green)](https://git.io/streak-stats)
+
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X-pose&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
