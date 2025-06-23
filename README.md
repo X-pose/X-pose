@@ -36,6 +36,8 @@
 
 :airplane: Fun fact about me: I write poems and I fly fighter jets in simulators.
 
+:page_facing_up: Read my blogs [here](https://medium.com/@falcon1001)
+
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/thathsara-thalangama)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="">
