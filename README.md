@@ -45,46 +45,51 @@
 #### :hammer_and_wrench: Languages :
 
 <div>
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title = "Java" alt = "Java" width="40" height="40"/>&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=java,js, py, php)](https://skillicons.dev)
+<!--     <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title = "Java" alt = "Java" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript"      alt="JavaScript" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="JavaScript"      alt="JavaScript" width="40" height="40"/>&nbsp;
-   <img src = "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title = "PHP" alt = "PHP" width="40" height="40"/>&nbsp;  
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title = "PHP" alt = "PHP" width="40" height="40"/>&nbsp;   -->
 </div>
 
 #### :hammer_and_wrench: Frontend Development :
 
 <div>
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title = "ReactJS" alt = "ReactJS" width="40" height="40"/>&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=react, vue, tailwind, html, css, bootstrap)](https://skillicons.dev)
+<!--     <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title = "ReactJS" alt = "ReactJS" width="40" height="40"/>&nbsp;
         <img src = "https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title = "VueJS" alt = "VueJS" width="40" height="40"/>&nbsp;
         <img src = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title = "tailwindcss" alt = "tailwindcss" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML"          width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS"       width="40" height="40"/>&nbsp;       
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp; -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg"  title="antdesign" alt="antdesign" width="40" height="40"/>&nbsp;
     </div>
 
 #### :hammer_and_wrench: Backend Development :
 
  <div>
-   <img src = "https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title = "Express" alt = "Express" width="40" height="40"/>&nbsp;
+	 [![My Skills](https://skillicons.dev/icons?i=express, nodejs, rabbitmq, nginx)](https://skillicons.dev)
+<!--    <img src = "https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title = "Express" alt = "Express" width="40" height="40"/>&nbsp;
     <img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title = "NodeJS" alt = "NodeJS" width="40" height="40"/>&nbsp;
     <img src = "https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title = "rabbitmq" alt = "rabbitmq" width="40" height="40"/>&nbsp;
-     <img src = "https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title = "nginx" alt = "nginx" width="40" height="40"/>&nbsp;    
+     <img src = "https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title = "nginx" alt = "nginx" width="40" height="40"/>&nbsp;     -->
  </div>
  
  #### :hammer_and_wrench: Frameworks :
 
  <div>
-   <img src = "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title = "NextJS" alt = "NextJS" width="40" height="40"/>&nbsp;
+	 [![My Skills](https://skillicons.dev/icons?i=nextjs, flask, materialui)](https://skillicons.dev)
+<!--    <img src = "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title = "NextJS" alt = "NextJS" width="40" height="40"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title = "flask" alt = "flask" width="40" height="40"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title = "materialui" alt = "materialui" width="40" height="40"/>&nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title = "materialui" alt = "materialui" width="40" height="40"/>&nbsp; -->
  </div>
 
 #### :hammer_and_wrench: AI/ML :
 
 <div>
-<img src = "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title = "tensorflow" alt = "tensorflow" width="40" height="40"/>&nbsp; 
-<img src = "https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title = "pytorch" alt = "pytorch" width="40" height="40"/>&nbsp; 
+	[![My Skills](https://skillicons.dev/icons?i=tensorflow, pytorch)](https://skillicons.dev)
+<!-- <img src = "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title = "tensorflow" alt = "tensorflow" width="40" height="40"/>&nbsp; 
+<img src = "https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title = "pytorch" alt = "pytorch" width="40" height="40"/>&nbsp;  -->
 <img src = "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title = "pandas" alt = "pandas" width="40" height="40"/>&nbsp; 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title = "scikitlearn" alt = "scikitlearn" width="40" height="40"/>&nbsp; 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title = "numpy" alt = "numpy" width="40" height="40"/>&nbsp;
@@ -94,30 +99,33 @@
 #### :hammer_and_wrench: Databases :
 
 <div>
+	[![My Skills](https://skillicons.dev/icons?i=mysql, sqlite, mongodb, firebase)](https://skillicons.dev)
    <img src = "https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title = "sql server"       alt = "SQLServer" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"            alt="MySQL" width="40" height="40"/>&nbsp;
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"            alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite"            alt="sqlite" width="40" height="40"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title = "MongoDB" alt = "MongoDB" width="40" height="40"/>&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title = "Firebase" alt = "Firebase" width="40" height="40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title = "Firebase" alt = "Firebase" width="40" height="40"/>&nbsp; -->
 </div>
 
 #### :hammer_and_wrench: DevOps :
 
 <div>
- <img src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title = "docker" alt = "docker" width="40" height="40"/>&nbsp;
+	[![My Skills](https://skillicons.dev/icons?i=docker, kubernetes, linux, aws, gcp)](https://skillicons.dev)
+<!--  <img src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title = "docker" alt = "docker" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title = "kubernetes" alt = "kubernetes" width="40" height="40"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title = "linux" alt = "linux" width="40" height="40"/>&nbsp;
     <img src = "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title = "aws" alt = "aws" width="40" height="40"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title = "Google Cloud" alt = "GCP" width="40" height="40"/>&nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title = "Google Cloud" alt = "GCP" width="40" height="40"/>&nbsp; -->
     
 </div>
 
 #### :hammer_and_wrench: Testing :
 
 <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
+	[![My Skills](https://skillicons.dev/icons?i=cypress, jest, selenium)](https://skillicons.dev)
+<!--    <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/puppeteer/puppeteer-original.svg" title="Puppeteer" alt="Puppeteer" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha" alt="Mocha" width="40" height="40"/>
     
@@ -126,12 +134,13 @@
 #### :hammer_and_wrench: Other Tools :
 
 <div>
-   <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "VS Code" alt = "VS Code" width="40" height="40"/>&nbsp;
+	[![My Skills](https://skillicons.dev/icons?i=vscode, figma, androidstudio, eclipse, postman, blender)](https://skillicons.dev)
+<!--    <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "VS Code" alt = "VS Code" width="40" height="40"/>&nbsp;
 <img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title = "figma" alt = "figma" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain.svg" title = "Android Studio" alt = "Android Studio" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title = "Eclipse" alt =       "Eclipse" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title = "Postman" alt =       "Postman" width="40" height="40"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title = "Blender" alt =       "Blender" width="40" height="40"/>&nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title = "Blender" alt =       "Blender" width="40" height="40"/>&nbsp; -->
     <img src = "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title = "Photoshop"        alt = "Photoshop" width="40" height="40"/>&nbsp;
     <img src = "https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title = "Google" alt =        "Google" width="40" height="40"/>&nbsp;
 </div>
@@ -140,11 +149,9 @@
 
 ### :fire: My Stats :
 
-
-[![X-pose's GitHub Streak](https://streak-stats.demolab.com?user=X-pose&theme=blue-green)](https://git.io/streak-stats) 
-
 [![X-pose's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-pose&theme=blue-green&show=prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![X-pose's GitHub Streak](https://streak-stats.demolab.com?user=X-pose&theme=blue-green)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X-pose&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
