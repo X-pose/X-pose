@@ -34,7 +34,7 @@
 
 :seedling: I am currently learning about Linux, Docker and Distributed Systems.
 
-:airplane: Fun fact about me: I am a huge aviation enthusiast.
+:airplane: Fun fact about me: I write poems and I fly fighter jets in simulators.
 
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/thathsara-thalangama)
 
@@ -159,7 +159,7 @@
 
 <div>
 
-[![X-pose's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-pose&theme=blue-green&show=prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![X-pose's GitHub Streak](https://streak-stats.demolab.com?user=X-pose&theme=blue-green)](https://git.io/streak-stats)
+[![X-pose's GitHub Streak](https://streak-stats.demolab.com?user=X-pose&theme=blue-green)](https://git.io/streak-stats)
 
 </div>
 
