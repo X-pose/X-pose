@@ -159,7 +159,7 @@
 
 <div>
 
-[![X-pose's GitHub Streak](https://streak-stats.demolab.com?user=X-pose&theme=blue-green)](https://git.io/streak-stats)
+[![X-pose's GitHub Streak](https://streak-stats.demolab.com?user=X-pose)](https://git.io/streak-stats)
 
 </div>
 
